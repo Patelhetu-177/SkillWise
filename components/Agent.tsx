@@ -31,7 +31,7 @@ enum CallStatus {
 export default function Agent({
   userName,
   userId,
-  profileImage = "/user-avatar.png",
+  profileImage = "/user-avatar.jpeg",
   email,
   role,
   interviewId,
